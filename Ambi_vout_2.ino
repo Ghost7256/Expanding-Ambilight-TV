@@ -36,8 +36,8 @@ unsigned long currentMillis = 0;
 
 int counter = 0;
 
-const char* ssid = "Telekom-46A51F"; // WIFI hálózat neve
-const char* password = "hhv1b7fvpm3h8xgn"; // WIFI jelszó
+const char* ssid = "ssid"; // WIFI hálózat neve
+const char* password = "password"; // WIFI jelszó
 const char* AmbilightSource = "http://192.168.1.178:1925/6/ambilight/processed"; //"http://192.168.1.XXX:1925/6/ambilight/processed"; TV IP-JE
 
 int left_rgb[3]  ={0, 0, 0}; 
